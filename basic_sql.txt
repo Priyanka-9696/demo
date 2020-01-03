@@ -1,0 +1,14 @@
+connect to the database:-p is required only if password is their
+mysql -h localhost -u root -p
+
+create the database
+CREATE DATABASE databasename
+
+CREATE DATABASE pratik91db;
+
+check the database
+SHOW DATABASES;
+
+select the database
+USE pratik91db;
+
